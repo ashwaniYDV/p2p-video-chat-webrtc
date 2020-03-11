@@ -6,4 +6,4 @@ Steps to use:-
 (4) Open 2nd pages using localhost:${port} <br/>
 (5) Enter 'yourId' in others 'otherId' and cick connect<br/>
 (6) Enter others 'yourId' in your 'otherId' and click connect<br/>
-(&) You're done <br/>
+(7) You're done <br/>
